@@ -1,0 +1,16 @@
+c:\Users\kokea\OneDrive\Documentos\2-Trimestre\C#-2-trimestre\Muñoz_Sánchez_Jorge_PracT6\JuegosDeGuerra\JuegosDeGuerra\bin\Debug\net5.0\JuegosDeGuerra.exe
+c:\Users\kokea\OneDrive\Documentos\2-Trimestre\C#-2-trimestre\Muñoz_Sánchez_Jorge_PracT6\JuegosDeGuerra\JuegosDeGuerra\bin\Debug\net5.0\JuegosDeGuerra.deps.json
+c:\Users\kokea\OneDrive\Documentos\2-Trimestre\C#-2-trimestre\Muñoz_Sánchez_Jorge_PracT6\JuegosDeGuerra\JuegosDeGuerra\bin\Debug\net5.0\JuegosDeGuerra.runtimeconfig.json
+c:\Users\kokea\OneDrive\Documentos\2-Trimestre\C#-2-trimestre\Muñoz_Sánchez_Jorge_PracT6\JuegosDeGuerra\JuegosDeGuerra\bin\Debug\net5.0\JuegosDeGuerra.runtimeconfig.dev.json
+c:\Users\kokea\OneDrive\Documentos\2-Trimestre\C#-2-trimestre\Muñoz_Sánchez_Jorge_PracT6\JuegosDeGuerra\JuegosDeGuerra\bin\Debug\net5.0\JuegosDeGuerra.dll
+c:\Users\kokea\OneDrive\Documentos\2-Trimestre\C#-2-trimestre\Muñoz_Sánchez_Jorge_PracT6\JuegosDeGuerra\JuegosDeGuerra\bin\Debug\net5.0\ref\JuegosDeGuerra.dll
+c:\Users\kokea\OneDrive\Documentos\2-Trimestre\C#-2-trimestre\Muñoz_Sánchez_Jorge_PracT6\JuegosDeGuerra\JuegosDeGuerra\bin\Debug\net5.0\JuegosDeGuerra.pdb
+c:\Users\kokea\OneDrive\Documentos\2-Trimestre\C#-2-trimestre\Muñoz_Sánchez_Jorge_PracT6\JuegosDeGuerra\JuegosDeGuerra\obj\Debug\net5.0\JuegosDeGuerra.csproj.AssemblyReference.cache
+c:\Users\kokea\OneDrive\Documentos\2-Trimestre\C#-2-trimestre\Muñoz_Sánchez_Jorge_PracT6\JuegosDeGuerra\JuegosDeGuerra\obj\Debug\net5.0\JuegosDeGuerra.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kokea\OneDrive\Documentos\2-Trimestre\C#-2-trimestre\Muñoz_Sánchez_Jorge_PracT6\JuegosDeGuerra\JuegosDeGuerra\obj\Debug\net5.0\JuegosDeGuerra.AssemblyInfoInputs.cache
+c:\Users\kokea\OneDrive\Documentos\2-Trimestre\C#-2-trimestre\Muñoz_Sánchez_Jorge_PracT6\JuegosDeGuerra\JuegosDeGuerra\obj\Debug\net5.0\JuegosDeGuerra.AssemblyInfo.cs
+c:\Users\kokea\OneDrive\Documentos\2-Trimestre\C#-2-trimestre\Muñoz_Sánchez_Jorge_PracT6\JuegosDeGuerra\JuegosDeGuerra\obj\Debug\net5.0\JuegosDeGuerra.csproj.CoreCompileInputs.cache
+c:\Users\kokea\OneDrive\Documentos\2-Trimestre\C#-2-trimestre\Muñoz_Sánchez_Jorge_PracT6\JuegosDeGuerra\JuegosDeGuerra\obj\Debug\net5.0\JuegosDeGuerra.dll
+c:\Users\kokea\OneDrive\Documentos\2-Trimestre\C#-2-trimestre\Muñoz_Sánchez_Jorge_PracT6\JuegosDeGuerra\JuegosDeGuerra\obj\Debug\net5.0\ref\JuegosDeGuerra.dll
+c:\Users\kokea\OneDrive\Documentos\2-Trimestre\C#-2-trimestre\Muñoz_Sánchez_Jorge_PracT6\JuegosDeGuerra\JuegosDeGuerra\obj\Debug\net5.0\JuegosDeGuerra.pdb
+c:\Users\kokea\OneDrive\Documentos\2-Trimestre\C#-2-trimestre\Muñoz_Sánchez_Jorge_PracT6\JuegosDeGuerra\JuegosDeGuerra\obj\Debug\net5.0\JuegosDeGuerra.genruntimeconfig.cache

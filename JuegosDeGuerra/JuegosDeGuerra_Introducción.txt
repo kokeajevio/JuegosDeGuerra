@@ -1,0 +1,38 @@
+Proyecto para el módulo de Grado Superior. 
+Programación. Desarrollo de Páginas Web.
+
+Código y juego "Juegos de Guerra".
+
+EL juego consiste en un tablero el programa te da la opción de ubicar las naves de manera vertical y horizontal.
+Se pueden ubicar diferentes naves de diferentes dimensiones. Siguiendo unas coordenadas lógicas y preguntando al usuario en cada acción, así como indicándole si las opciones del jugador son certeras o no.
+
+Los barcos son los siguiente:
+
+Dispones de los siguientes barcos: 
+
+                                  P,  PORTAAVIONES de 5 casillas.
+                                  A,  ACORAZADO  de 4 casillas.
+                                  F,  FRAGATA de 3 casillas.
+                                  D,  DESTRUCTOR de 3 casillas.
+                                  S,  SUBMARINO de 2 casillas.
+                                  C, CRUCERO de 2 casillas.
+
+Después de colocar los barcos de guerra en el tablero se procederá a que el jugador opte por jugar
+dándole 40 oportunidades de tiro. 
+
+Se informará al jugador si los tiros son:
+
+	TOCADO. B
+	AGUA.  A
+	HUNDIDO (si el barco béligerante ha sido acertado en todas sus casillas)
+
+El programa ha sido realizado a través de métodos de programación de C# y he usado Virtual Studio Code como IDE (entorno de desarrollo) 
+Hasta aquí la breve explicación del juego de este proyecto.
+
+A jugar, pues.
+
+Gracias
+
+Jorge Muñoz Sánchez
+
+
